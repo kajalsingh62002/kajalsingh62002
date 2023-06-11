@@ -1,6 +1,6 @@
 
 
-h1 align="center">Hi 👋, I'm Kajal Singh</h1>
+<h1 align="center">Hi 👋, I'm Kajal Singh</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/295799299/original/e58cefc40074693f9cf635d284c0dac50ccb8adc/develop-full-mean-mern-stack-custom-website-webapp-with-react-node-js-mongodb.jpg">
 
